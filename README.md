@@ -9,7 +9,7 @@ AND I love to share what I learn, so I created a youtube channel about ethical h
 
 Skills: REACTJS / NODEJS / LARAVEL / WEB PENTESTING
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on student in cyberdefense ingeneering 
 - 🌱 I’m currently learning reactjs , laravel 9 and web pentest 
 
 
